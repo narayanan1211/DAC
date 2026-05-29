@@ -12,7 +12,7 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 |-------|------------------|-----------------|----------|
 | 1     | Microprocessor kit | 8086            | 1        |
 | 2     | Power Supply      | +5 V DC, +12 V DC | 1      |
-| 3     | DAC Interface board | -              | 1        |
+| 3     | DAC Interface board | -             | 1        |
 
 ---
 
